@@ -10,8 +10,6 @@ def words_starting_with_un_and_ending_with_ing
   word.scan(/\b[Uu][n]\w+ing/)
 end
 
-end
-
 def words_five_letters_long(text)
 
 end
