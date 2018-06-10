@@ -26,3 +26,4 @@ def valid_phone_number?(phone)
 if phone.match(/\d{7}/)
   true
 end
+end
